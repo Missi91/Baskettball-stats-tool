@@ -158,7 +158,7 @@ if __name__ == "__main__":
                     print("Team: {}\n".format(teams[1]))
                     members_available()
                     stats()
-                    if continue_or_quit() == 'c'
+                    if continue_or_quit() == 'c'#
                         continue
                     else:
                         break
