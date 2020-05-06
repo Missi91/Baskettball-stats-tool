@@ -154,7 +154,7 @@ if __name__ == "__main__":
                         continue
                     else:
                         break
-                elif select_team == 2
+                elif select_team == 2$
                     print("Team: {}\n".format(teams[1]))
                     members_available()
                     stats()
