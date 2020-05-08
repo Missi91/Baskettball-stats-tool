@@ -72,7 +72,7 @@ def add_players():
 
 
 def continue_or_quit():
-    continue_or_quit = input("\nEnter c to continue or q to quit. ")
+    continue_or_quit = input("\nEnter c to continue or q to quit. "*
     print("\n")
 
     while continue_or_quit.lower() != 'c' and continue_or_quit.lower() != 'q':
